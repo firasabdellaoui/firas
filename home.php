@@ -1,3 +1,13 @@
+  <div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
 <header>
       <div class="profile-page sidebar-collapse">
 	  
@@ -30,7 +40,7 @@
           <div class="cc-profile-image"><a href="https://www.linkedin.com/in/firas-abdellaoui-359684131/ " target="_blank title"><img src="images/Sans titre-1.jpg" alt="Image"/></a></div>
           <div class="h2 title">Firas Abdellaoui</div>
 		  
-          <p class="category text-white">Front end & CMS & Web Developer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1cELJRdHQaJVpFob6poHGjr3Gvv43NdtC/view?usp=sharing" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
+          <p class="category text-white">Front end & CMS & Web Developer</p><a class="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a class="btn btn-primary" target="_blank" href="https://drive.google.com/file/d/1L1Kcx-MnUmOMPnPHi-SINoTdktiqCwkX/view?usp=sharing" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
         </div>
       </div>
       <div class="section">
@@ -52,8 +62,8 @@
         <div class="col-lg-6 col-md-12" data-aos="fade-right" data-aos-offset="120" data-aos-duration="1200">
           <div class="card-body">
             <div class="h4 mt-0 title">About Me</div>
-            <p>Hello! I am Firas Abdellaoui.</p>
-            <p>I am a <strong>Front end & CMS & Web Developer,</strong> I master a different languages and frameworks such as <strong>Angular7, .Net Core, php, JAVA, Mongodb, SQLServer and Wordpress.</strong></p><p>I'm passionate about bringing both the technical and visual aspects of digital products to life. I am a quick learner and a team worker that gets the job done. I'm available for any freelance work, feel free to reach out and say hello!</p>
+          
+            <p><strong>Front end & CMS & Web Developer.</strong> I master a different languages and frameworks such as <strong>Angular7, .Net Core, php, JAVA, Mongodb, SQLServer and Wordpress.</strong></p><p>I'm passionate about bringing both the technical and visual aspects of digital products to life. I am a quick learner and a team worker that gets the job done. I'm available for any freelance work, feel free to reach out and say hello!</p>
           </div>
         </div>
 		
@@ -224,7 +234,7 @@
                   </figure></a></div>
             </div>
             <div class="col-md-6">
-              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://github.com/firasabdellaoui/ProjectFrontend" target="_blank title">
+              <div class="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://drive.google.com/file/d/1hNeOsoGuiTzhebwKzo-s_AV7VV5Ge72m/view?usp=sharing" target="_blank title">
                   <figure class="cc-effect"><img src="images/project-13.jpg" alt="Image"/>
                     <figcaption>
                       <div class="h4">Chaufferie</div>
@@ -496,8 +506,8 @@
                                   <span>2021</span>
                              </div>
                              <div class="timeline-info">
-                                  <h3><span>Applied degree</span><small>Higher Institute of Technological Studies</small></h3>
-                                 <p>Applied degree in computer science</p>
+                                  <h3><span>Licence degree</span><small>Higher Institute of Technological Studies</small></h3>
+                                 <p>Licence degree in computer science</p>
                              </div>
                         </div>
 

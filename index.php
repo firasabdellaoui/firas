@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="theme-color" content="#6D749F">
     <title>Firas</title>
-	<link rel="shortcut icon" type="image/jpg" href="images/favicon.png"/>
+	<link rel="shortcut icon" type="image/jpg" href="images/Business_Finance_Resume_1 copy 4.png"/> 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/aos.css?ver=1.1.0" rel="stylesheet">

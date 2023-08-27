@@ -428,7 +428,7 @@
                              </div>
                              <div class="timeline-info">
 
-                                  <h3><span>Technical Support</span><small>Whatsapp</small></h3>
+                                  <h3><span>Technical Support</span><small></small></h3>
                                   <p>Technical support agent<p>
                              </div>
                         </div>

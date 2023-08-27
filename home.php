@@ -76,15 +76,14 @@
             <div class="h4 mt-0 title">Basic Information</div>
             <div class="row">
 			
-              <div class="col-sm-4"><i class="fa fa-birthday-cake"></i>  <strong class="text-uppercase">&nbsp Age :</strong></div>
-              <div class="col-sm-8">25</div>
+        
             </div>
 			
 			
             <div class="row mt-3">
               <div class="col-sm-4"><i class="fa fa-envelope"></i><strong class="text-uppercase">&nbsp Email :</strong></div>
              
-			  <div class="col-sm-8" ><a href="mailto:firasabdl88@gmail.com">firasabdl88@gmail</a></div>
+			  <div class="col-sm-8" ><a href="mailto:firasabdl88@gmail.com">firasabdl88@gmail.com</a></div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><i class="fa fa-phone"></i><strong class="text-uppercase">&nbsp Phone :</strong></div>
@@ -93,7 +92,7 @@
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><i class="fa fa-map-marker"></i><strong class="text-uppercase">&nbsp Address :</strong></div>
-              <div class="col-sm-8">Palio Faliro, Greece</div>
+              <div class="col-sm-8">Athens, Greece</div>
             </div>
             <div class="row mt-3">
               <div class="col-sm-4"><i class="fa fa-globe"></i><strong class="text-uppercase">&nbsp Language :</strong></div>
@@ -596,7 +595,7 @@
                 <div class="col-md-6">
                   <div class="card-body">
                     <p class="mb-0"><strong>Address </strong></p>
-                    <p class="pb-2">Palio Faliro, Greece</p>
+                    <p class="pb-2">Athens, Greece</p>
                     <p class="mb-0"><strong>Phone</strong></p>
                     <p class="pb-2">+30 6947029409</p>
                     <p class="mb-0"><strong>Email</strong></p>
